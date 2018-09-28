@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE medailles SYSTEM "medailles.dtd">
+<?xml-stylesheet href="medailles.xsl" type="text/xsl" ?>
+
+
+<tableau>
+    <ligne>
+        <pays nomDePays="USA" />
+        <medaille typeDeMedaille="or">46</medaille>
+        <medaille typeDeMedaille="argent">37</medaille>
+        <medaille typeDeMedaille="bronze">38</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Grande-Bretagne" />
+        <medaille typeDeMedaille="or">27</medaille>
+        <medaille typeDeMedaille="argent">23</medaille>
+        <medaille typeDeMedaille="bronze">17</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Chine" />
+        <medaille typeDeMedaille="or">26</medaille>
+        <medaille typeDeMedaille="argent">18</medaille>
+        <medaille typeDeMedaille="bronze">26</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Russie" />
+        <medaille typeDeMedaille="or">19</medaille>
+        <medaille typeDeMedaille="argent">18</medaille>
+        <medaille typeDeMedaille="bronze">19</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Allemagne" />
+        <medaille typeDeMedaille="or">17</medaille>
+        <medaille typeDeMedaille="argent">10</medaille>
+        <medaille typeDeMedaille="bronze">15</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Japon" />
+        <medaille typeDeMedaille="or">12</medaille>
+        <medaille typeDeMedaille="argent">8</medaille>
+        <medaille typeDeMedaille="bronze">21</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="France" />
+        <medaille typeDeMedaille="or">10</medaille>
+        <medaille typeDeMedaille="argent">18</medaille>
+        <medaille typeDeMedaille="bronze">14</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Corée-du-Sud" />
+        <medaille typeDeMedaille="or">9</medaille>
+        <medaille typeDeMedaille="argent">3</medaille>
+        <medaille typeDeMedaille="bronze">9</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Italie" />
+        <medaille typeDeMedaille="or">8</medaille>
+        <medaille typeDeMedaille="argent">12</medaille>
+        <medaille typeDeMedaille="bronze">8</medaille>    
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays="Australie" />
+        <medaille typeDeMedaille="or">8</medaille>
+        <medaille typeDeMedaille="argent">11</medaille>
+        <medaille typeDeMedaille="bronze">10</medaille>    
+    </ligne>
+    
+    
+</tableau>
